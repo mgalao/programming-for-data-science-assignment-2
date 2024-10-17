@@ -35,7 +35,7 @@ The submission package should correspond to a .zip archive (.rar files are not a
 
 1. Jupyter Notebook with the output of all the cells;
 2. HTML print of your Jupyter Notebook (in Jupyter go to File -> Download as -> HTML);
-3. All text or .csv files that are exported as part of the exercises. Please don't upload the files downloaded/imported as part of the exercises.
+3. All text or .csv files that are exported as part of the exercises. **Please don't upload the files downloaded/imported as part of the exercises.**
 
 **Please change the name of the notebook to "H2.<student_1_id>_<student_2_id>.ipynb", replacing <student_id> by your student_id.**
 
