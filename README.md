@@ -41,7 +41,7 @@ The submission package should correspond to a .zip archive (.rar files are not a
 
 Submission is done through the respective Moodle activity, and only one of the group members should submit the files.
 
-The deadline is the **19th of October at 12:00.**
+The deadline is the **19th of October at 12:00 pm.**
 
 A penalty of 1 point per day late will be applied to late deliveries.
 
